@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7403621976))
+OWNER_ID = int(getenv("OWNER_ID", 1266240012))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -70,7 +70,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", BQFJCmcAaVjJ0XbnItOP2s8_u761SGE9lCmecxrU0plcP7PnIZRu-VMnElJ8LDI_C7jqlS8khdP1mvaM_gBvr8K1kCpNQupTxilB7ge_SUJfLe4ded2H82ElxsUbesBnUVhw_4sPqvIo31lxyQ7t3oqHMTC36z-cBQNyOEtHw7l2wNOKb7-CMNkS71kmv9Clu5aUObij-1ek87K3Qg88RHfIeYFrtSCj5CuThhAoF12aA-kTwbMFLyRXQjLD0AvFz2255yw-mUfKaHdfMLyxAfBklKbPxmL17K2aZ1hIQDHVJZkF4h0r46GFM8zf_16S5TgwCMj0FtNMGxMYGoZUKEAGiq6kAgAAAABu4x2OAA)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
